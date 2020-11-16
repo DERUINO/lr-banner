@@ -16,3 +16,56 @@
 .myborder {
 	border: 1px solid red;
 }
+
+.wrapper {
+	width: 100%;
+	min-height: 100vh;
+	height: 100%;
+	display: flex;
+}
+
+.lr-block {
+	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+	font-weight: 400;
+	font-style: normal;
+	padding: 20px;
+	text-align: center;
+	margin: auto;
+	background: white;
+	width: 290px;
+}
+
+.title {
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: 600;
+	padding-top: 6px;
+}
+
+.linkblock {
+	margin-top: 20px;
+}
+
+.linkblock a {
+	color: black;
+	text-decoration: none;
+}
+
+.link_text {
+	font-style: normal;
+	padding-top: 7px;
+	font-weight: 300;
+	font-size: 13px;
+	line-height: 18px;
+}
+
+@media screen and (max-width: 576px) {
+	.wrapper {
+		min-height: 100%;
+	}
+
+	.lr-block {
+		box-shadow: none;
+		width: 100%;
+	}
+}
