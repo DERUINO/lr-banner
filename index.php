@@ -19,14 +19,16 @@
   <body>
     <div class="wrapper">
       <div class="lr-block">
-        <div class="logoblock">
-          <img src="css/images/logo.svg">
-        </div>
-        <div class="title">
-          Продажа запчастей для стайлинга<br>автомобилей Land Rover
-        </div>
-        <div class="row justify-content-center">
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+      	<div class="header">
+	        <div class="logoblock">
+	          <img src="css/images/logo.svg">
+	        </div>
+	        <div class="title">
+	          Продажа запчастей для стайлинга<br>автомобилей Land Rover
+	        </div>
+	    </div>
+        <div class="row justify-content-center align-items-center">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -38,7 +40,7 @@
               </a>
             </div>
           </div>
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -51,8 +53,8 @@
             </div>
           </div>
         </div>
-        <div class="row justify-content-center">
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -64,7 +66,7 @@
               </a>
             </div>
           </div>
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -77,8 +79,8 @@
             </div>
           </div>
         </div>
-        <div class="row justify-content-center">
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -90,7 +92,7 @@
               </a>
             </div>
           </div>
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -103,8 +105,8 @@
             </div>
           </div>
         </div>
-        <div class="row justify-content-center">
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+        <div class="row justify-content-center align-items-center">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -116,7 +118,7 @@
               </a>
             </div>
           </div>
-          <div class="col-5 col-sm-6 col-md-6 col-lg-6 col-xl-6">
+          <div class="col-6 col-sm-6 col-md-6 col-lg-6 col-xl-6">
             <div class="linkblock">
               <a href="#">
                 <div class="link_img">
@@ -129,7 +131,7 @@
             </div>
           </div>
         </div>
-      </div>
+	  </div>
     </div>
 
     <script type="text/javascript" src="js/script.js"></script>
